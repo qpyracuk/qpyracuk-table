@@ -1,0 +1,8 @@
+{
+	"window.zoomLevel": 2,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": false,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit"
+	}
+}
